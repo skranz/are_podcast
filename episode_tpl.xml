@@ -1,0 +1,17 @@
+<item>
+  <title>{{pod_title}}</title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="{{article_url}}">"{{title}}"</a> ({{year}}) by {{authors}} (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  {{abstract}}
+  ]]></description>
+  <enclosure url="{{mp3_url}}" length="{{mp3_bytes}}" type="audio/mpeg"/>
+  <guid>{{guid}}</guid>
+  <pubDate>{{pubDate}}</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
