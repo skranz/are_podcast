@@ -5,7 +5,7 @@
 <link></link>
 <language>en-us</language>
 <itunes:author>Sebastian Kranz</itunes:author>
-<description><![CDATA[NotebookLM audio deep dives into selected open access articles from the <a href="https://www.annualreviews.org/content/journals/economics">Annual Reviews of Economics</a>. Generated using Google's <a href="https://notebooklm.google/NotebookLM">NotebookLM</a>.
+<description><![CDATA[NotebookLM audio deep dives into selected open access articles from the <a href="https://www.annualreviews.org/content/journals/economics">Annual Review of Economics</a>. Generated using Google's <a href="https://notebooklm.google/NotebookLM">NotebookLM</a>.
 
 This podcast is a private project from <a href="https://www.uni-ulm.de/mawi/mawi-wiwi/institut/mitarbeiter/skranz/">Sebastian Kranz (Ulm University)</a> and not endorsed in any way by the journal or the authors of the underlying articles.
 
@@ -72,6 +72,78 @@ To the best of my knowledge, all underlying articles have been published under a
   <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-091523-044259/Nineteenth_Century_Industrial_Policy_A_Review.mp3" length="47685958" type="audio/mpeg"/>
   <guid>annurev-economics-091523-044259</guid>
   <pubDate>Tue, 27 May 2025 08:10:42 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Understanding Spatial Agglomeration: Increasing Returns, Land, and Transportation Costs (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-020723-041113">"Understanding Spatial Agglomeration: Increasing Returns, Land, and Transportation Costs"</a> (2024) by Hans R.A. Koster; Jacques-François Thisse (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Economic activities are concentrated on a small share of inhabitable land. In our view, this agglomeration is the outcome of a trade-off between increasing returns and transportation costs, which capitalizes into land rents. Our second baseline idea is that Tiebout-like sorting provides a general framework to handle a large array of problems in spatial economics. Cities have high housing prices because they are productive and offer high levels of amenities and public goods. Both production and amenity effects capitalize in the land rent at a particular location. Through the process of bidding for land, spatial sorting is the involuntary consequence of a myriad of individual decisions made by agents who pursue their own interests.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-020723-041113/Spatial_Economics_Agglomeration_Land_and_Sorting.mp3" length="20747333" type="audio/mpeg"/>
+  <guid>annurev-economics-020723-041113</guid>
+  <pubDate>Wed, 28 May 2025 05:32:51 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Experiments About Institutions (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-091823-031317">"Experiments About Institutions"</a> (2024) by Michael Callen; Jonathan L. Weigel; Noam Yuchtman (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Institutions are a key determinant of economic growth, but the critical junctures in which institutions can change are not precisely defined. For example, such junctures are often identified ex post, raising several methodological problems: a selection on the outcome of institutional change; an inability to study beliefs, which are central to coordination and thus the process of institutional change; and an inability to conduct experiments to identify causal effects. We argue that critical junctures are identifiable in real time as moments of deep uncertainty about future institutions. Consistent with this conception, the papers reviewed (a) examine changes to institutions, i.e., the fundamental rules of the game; (b) are real-time studies of plausible critical junctures; and (c) use field experiments to achieve causal identification. We also advocate for more systematic measurement of beliefs about future institutions to identify critical junctures as they happen and provide an empirical proof of concept. Such work is urgent given contemporary critical junctures arising from democratic backsliding, state fragility, climate change, and conflicts over the rights of the marginalized.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-091823-031317/Experiments_About_Institutions.mp3" length="14371764" type="audio/mpeg"/>
+  <guid>annurev-economics-091823-031317</guid>
+  <pubDate>Wed, 28 May 2025 05:42:51 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Moral Boundaries (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-091223-093730">"Moral Boundaries"</a> (2024) by Benjamin Enke (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  This article reviews the growing economics literature that studies the politico-economic impacts of heterogeneity in moral boundaries across individuals and cultures. The so-called universalism-versus-particularism cleavage has emerged as a main organizing principle behind various salient features of contemporary political competition, including individual-level and spatial variation in voting, the realignment of rich liberals and poor conservatives, the internal structure of ideology, and the moral content of political messaging. A recurring theme is that the explanatory power of universalism for left-wing policy views and voting is considerably larger than that of traditional economic variables. Looking at the origins of heterogeneity in universalism, an emerging consensus is that cross-group variation is partly economically functional and reflects that morality evolved to support cooperation in economic production. This insight organizes much work on how kinship systems, market exposure, political institutions, and ecology have shaped universalism through their impacts on the relative benefits of localized and impersonal interactions.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-091223-093730/Moral_Boundaries_in_Political_Economy.mp3" length="27460285" type="audio/mpeg"/>
+  <guid>annurev-economics-091223-093730</guid>
+  <pubDate>Wed, 28 May 2025 05:52:51 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Technology and the Global Economy (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080218-025541">"Technology and the Global Economy"</a> (2024) by Jonathan Eaton; Samuel Kortum (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Interpreting individual heterogeneity in terms of probability theory has proved powerful in connecting behavior at the individual and aggregate levels. Returning to Ricardo's focus on comparative efficiency as a basis for international trade, much recent quantitative equilibrium modeling of the global economy builds on particular probabilistic assumptions about technology. We review these assumptions and discuss how they deliver a unified framework underlying a wide range of static and dynamic equilibrium models.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-080218-025541/Technology_and_the_Global_Economy.mp3" length="26720078" type="audio/mpeg"/>
+  <guid>annurev-economics-080218-025541</guid>
+  <pubDate>Wed, 28 May 2025 06:02:51 +0000</pubDate>
   <itunes:explicit>no</itunes:explicit>
 </item>
 
