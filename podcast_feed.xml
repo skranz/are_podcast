@@ -11,7 +11,7 @@ This podcast is a private project from <a href="https://www.uni-ulm.de/mawi/mawi
 
 Personally, I really like these audio deep dives. But don't forget that AI can still hallucinate and make other mistakes.
 
-To the best of my knowledge, all underlying articles have been published under a <a href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International</a>license.
+To the best of my knowledge, all underlying articles have been published under a <a href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International</a> license.
 
 ]]></description>
 <itunes:owner>
@@ -144,6 +144,78 @@ To the best of my knowledge, all underlying articles have been published under a
   <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-080218-025541/Technology_and_the_Global_Economy.mp3" length="26720078" type="audio/mpeg"/>
   <guid>annurev-economics-080218-025541</guid>
   <pubDate>Wed, 28 May 2025 06:02:51 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>A Practical Guide to Weak Instruments (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-092123-111021">"A Practical Guide to Weak Instruments"</a> (2024) by Michael P. Keane; Timothy Neal (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  We survey the weak instrumental variables (IV) literature with the aim of giving simple advice to applied researchers. This literature focuses heavily on the problem of size inflation in two-stage least squares (2SLS) two-tailed t-tests that arises if instruments are weak. A common standard for acceptable instrument strength is a first-stage F of 10, which renders this size inflation modest. However, 2SLS suffers from other important problems that exist at much higher levels of instrument strength. In particular, 2SLS standard errors tend to be artificially small in samples where the 2SLS estimate is close to ordinary least squares (OLS). This power asymmetry means the t-test has inflated power to detect false positive effects when the OLS bias is positive. The Anderson-Rubin (AR) test avoids this problem and should be used in lieu of the t-test even with strong instruments. We illustrate the practical importance of this issue in IV papers published in the American Economic Review from 2011 to 2023. Use of the AR test often reverses t-test results. In particular, IV estimates that are close to OLS and significant according to the t-test are often insignificant according to AR. We also show that for first-stage F in the 10–20 range there is a high probability that OLS estimates will be closer to the truth than 2SLS. Hence we advocate a higher standard of instrument strength in applied work.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-092123-111021/Better_Practices_for_Instrumental_Variables_Estimation.mp3" length="15010374" type="audio/mpeg"/>
+  <guid>annurev-economics-092123-111021</guid>
+  <pubDate>Fri, 30 May 2025 07:05:28 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Fertility in High-Income Countries: Trends, Patterns, Determinants, and Consequences (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-081523-013750">"Fertility in High-Income Countries: Trends, Patterns, Determinants, and Consequences"</a> (2024) by David E. Bloom; Michael Kuhn; Klaus Prettner (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  High-income countries have generally experienced falling fertility in recent decades. In most of these countries, the total fertility rate is now below the level that implies a stable population in the long run. This has led to concerns among economists, policymakers, and the wider public about the economic consequences of low fertility and population decline. In this contribution, we aim to (a) describe the main determinants of low fertility in high-income countries, (b) assess its potential economic consequences, (c) discuss adjustment mechanisms for individuals and economies, (d) propose a simple economic framework to analyze the long-run economic impacts of low fertility, and (e) draw lessons for economic policymakers to react appropriately. While the economic challenges of low fertility are substantial, a thoughtful and consistent policy response can mitigate most of the adverse consequences.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-081523-013750/Economics_of_Fertility_and_Population_Decline.mp3" length="17453747" type="audio/mpeg"/>
+  <guid>annurev-economics-081523-013750</guid>
+  <pubDate>Fri, 30 May 2025 07:15:28 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Modern Industrial Policy and the World Trade Organization (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-100223-041958">"Modern Industrial Policy and the World Trade Organization"</a> (2024) by Chad P. Bown (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  This article surveys the economics of industrial policy as it relates to the World Trade Organization (WTO). Motivated by concern that the modern use of industrial policy is emerging in ways that threaten cooperation in the international trading system, the article begins with the basic historical economic framework for tying industrial policy to underlying market failures. It then introduces the dominant economic understanding of the role played by the WTO, examining the WTO's rules on subsidies (and thus industrial policy), the unease with the evolution of the trading system's subsidy rules, gaps in knowledge, and important data and measurement shortcomings. The main part of the article examines four areas in which modern industrial policy operates differently and has become especially important for the trading system: China, supply chain resilience, supply chain responsiveness, and climate change. The article identifies the evidence to date, open questions, and potential paths forward for economic research to help inform policymakers’ efforts to restore international economic cooperation in trade and industrial policy.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-100223-041958/Industrial_Policy_Subsidies_and_the_WTO.mp3" length="20903191" type="audio/mpeg"/>
+  <guid>annurev-economics-100223-041958</guid>
+  <pubDate>Fri, 30 May 2025 07:25:28 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The New Economics of Industrial Policy (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-081023-024638">"The New Economics of Industrial Policy"</a> (2024) by Réka Juhász; Nathan Lane; Dani Rodrik (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  We discuss the considerable literature that has developed in recent years providing rigorous evidence on how industrial policies work. This literature is a significant improvement over the earlier generation of empirical work, which was largely correlational and marred by interpretational problems. On the whole, the recent crop of papers offers a more positive take on industrial policy. We review the standard rationales and critiques of industrial policy and provide a broad overview of new empirical approaches to measurement. We discuss how the recent literature, paying close attention to measurement, causal inference, and economic structure, is offering a nuanced and contextual understanding of the effects of industrial policy. We re-evaluate the East Asian experience with industrial policy in light of recent results. Finally, we conclude by reviewing how industrial policy is being reshaped by a new understanding of governance, a richer set of policy instruments beyond subsidies, and the reality of deindustrialization.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-081023-024638/The_New_Economics_of_Industrial_Policy.mp3" length="18116291" type="audio/mpeg"/>
+  <guid>annurev-economics-081023-024638</guid>
+  <pubDate>Fri, 30 May 2025 07:35:28 +0000</pubDate>
   <itunes:explicit>no</itunes:explicit>
 </item>
 
