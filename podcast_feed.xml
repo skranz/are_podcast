@@ -219,6 +219,114 @@ To the best of my knowledge, all underlying articles have been published under a
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+  <title>Central Bank Independence: Views from History and Machine Learning (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-081623-032553">"Central Bank Independence: Views from History and Machine Learning"</a> (2024) by Nergiz Dincer; Barry Eichengreen; Joan J. Martinez (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  We assemble an almost complete set of central bank statutes since 1800 to assess the legal independence of central banking institutions. We use these to extend existing indices of legal independence backward and forward in time. We document the trend toward increased independence post 1980 as well as an earlier, more limited movement in the direction of enhanced independence in the 1920s. We apply natural language processing to current statutes to corroborate our human-reader assessment. Using machine-learning methods, we quantify the extent to which topics in those statutes contribute to the independence measure based on our reading of the statutes. The topic with the largest positive contribution to explaining the cross-country variation in central bank independence encompasses disclosure, transparency, and reporting obligations. The topic with the largest negative contribution covers regulatory powers over inter alia securities markets that complicate the central bank's mandate, make accountability more complex, and render independence problematic.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-081623-032553/Central_Bank_Independence_Views_from_History_and_Machine_Learning.mp3" length="12526884" type="audio/mpeg"/>
+  <guid>annurev-economics-081623-032553</guid>
+  <pubDate>Sat, 31 May 2025 06:59:23 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>From Happiness Data to Economic Conclusions (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-081623-021136">"From Happiness Data to Economic Conclusions"</a> (2024) by Daniel J. Benjamin; Kristen Cooper; Ori Heffetz; Miles Kimball (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Happiness data—survey respondents’ self-reported well-being (SWB)—have become increasingly common in economics research, with recent calls to use them in policymaking. Researchers have used SWB data in novel ways—for example, to learn about welfare or preferences when choice data are unavailable or difficult to interpret. Focusing on leading examples of this pioneering research, the first part of this review uses a simple theoretical framework to reverse-engineer some of the crucial assumptions that underlie existing applications. The second part discusses evidence bearing on these assumptions and provides practical advice to the agencies and institutions that generate SWB data, the researchers who use them, and the policymakers who may use the resulting research. While we advocate creative uses of SWB data in economics, we caution that their use in policy will likely require both additional data collection and further research to better understand the data.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-081623-021136/Economics_of_Subjective_Well_Being_Surveys_and_Measurement.mp3" length="23457169" type="audio/mpeg"/>
+  <guid>annurev-economics-081623-021136</guid>
+  <pubDate>Sat, 31 May 2025 07:09:23 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Fiscal Federalism in the Twenty-First Century (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-081623-020713">"Fiscal Federalism in the Twenty-First Century"</a> (2024) by David R. Agrawal; Jan K. Brueckner; Marius Brülhart (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Fiscal federalism concerns the division of policy responsibilities among different levels of government. Many current economic and policy developments, such as globalization, environmental crises, and rising inequality, may not appear to be favorable to fiscal federalism, yet countries are further decentralizing their fiscal systems. We summarize the efficiency and equity aspects of fiscal decentralization, fiscal competition, fiscal externalities, and intergovernmental grants. The review introduces readers to theoretical reasons for/against a federalist structure. We discuss how federalism relates to classic problems in economics: externalities, inequality, spillovers, information, and aspects of political economy. Our review integrates both theory and empirics, while also focusing on the variety of federal systems in different countries, both developing and developed. We conclude by discussing how fiscal federalism is being shaped by economic, technological, and environmental changes, while discussing the effects of globalization, polarization, and global crises on the future of federal systems.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-081623-020713/Fiscal_Federalism_in_the_Twenty_First_Century.mp3" length="26053063" type="audio/mpeg"/>
+  <guid>annurev-economics-081623-020713</guid>
+  <pubDate>Sat, 31 May 2025 07:19:23 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Why Survey-Based Subjective Expectations Are Meaningful and Important (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-091523-043659">"Why Survey-Based Subjective Expectations Are Meaningful and Important"</a> (2024) by Francesco D'Acunto; Michael Weber (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  For decades, households’ subjective expectations elicited via surveys have been considered meaningless because they often differ substantially from the forecasts of professionals and ex-post realizations. In sharp contrast, the literature we review shows that household characteristics and the ways in which households collect and process economic information help us understand previously considered puzzling facts about their subjective expectations. In turn, subjective expectations contribute to explain heterogeneous consumption, saving, investment, and debt choices as well as different reactions by similar households to the same monetary and fiscal policy measures. Matching microdata on households’ characteristics with the price signals the same households observe, their subjective expectations, and their real-world economic decisions is crucial to establishing these facts. Our growing understanding of households’ subjective expectations inspires several theoretical and empirical research directions and begets the design of innovative and more effective policy instruments.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-091523-043659/Household_Subjective_Expectations_and_Economic_Choices.mp3" length="17085131" type="audio/mpeg"/>
+  <guid>annurev-economics-091523-043659</guid>
+  <pubDate>Sat, 31 May 2025 07:29:23 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Negative Interest Rate Policies: A Survey (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080323-042145">"Negative Interest Rate Policies: A Survey"</a> (2024) by Luis Brandão-Marques; Marco Casiraghi; Gaston Gelos; Güneş Kamber; Roland Meeks (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  This article surveys studies on the impact of central bank negative interest rate policies (NIRP). It reviews recent research on the effects of NIRP on financial markets, banks, households, firms, and the macroeconomy. Overall, policy rate cuts when interest rates are negative propagated along the yield curve, with the first policy cut below zero contributing significantly to the fall in longer-term yields. Lending and deposit rates also decreased following the adoption of NIRP. Based on the experience so far, bank lending volumes rose, and bank profits did not significantly deteriorate, although there was considerable heterogeneity in the effects. The impact of NIRP on inflation and output appears to have been comparable to that of conventional interest rate cuts.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-080323-042145/Review_of_Negative_Interest_Rate_Policies.mp3" length="14491085" type="audio/mpeg"/>
+  <guid>annurev-economics-080323-042145</guid>
+  <pubDate>Sat, 31 May 2025 07:39:23 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Climate Change Economics over Time and Space (2024) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-072123-044449">"Climate Change Economics over Time and Space"</a> (2024) by Klaus Desmet; Esteban Rossi-Hansberg (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  With average temperature ranging from −20°C at the North Pole to 30°C at the Equator and with global warming expected to reach 1.4°C to 4.5°C by the year 2100, it is clear that climate change will have vastly different effects across the globe. Given the abundance of land in northern latitudes, if population and economic activity could freely move across space, the economic cost of global warming would be greatly reduced. However, spatial frictions are real: migrants face barriers, trade and transportation are costly, physical infrastructure is not footloose, and knowledge embedded in clusters of economic activity diffuses only imperfectly. Thus, the economic cost of climate change is intimately connected to these spatial frictions. Building on earlier integrated assessment models (IAMs) that largely ignored space, in the past decade there has been significant progress in developing dynamic spatial integrated assessment models (S-IAMs) aimed at providing a more realistic evaluation of the economic cost of climate change, both locally and globally. This review discusses this progress and provides a guide for future work in this area.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-072123-044449/Spatial_Economics_of_Climate_Change.mp3" length="17509264" type="audio/mpeg"/>
+  <guid>annurev-economics-072123-044449</guid>
+  <pubDate>Sat, 31 May 2025 07:49:23 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 
 
 </channel>
