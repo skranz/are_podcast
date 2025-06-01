@@ -525,6 +525,96 @@ To the best of my knowledge, all underlying articles have been published under a
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+  <title>Micro Propagation and Macro Aggregation (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-082322-012833">"Micro Propagation and Macro Aggregation"</a> (2023) by David Baqaee; Elisa Rubbo (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  This article reviews a framework for studying the aggregation and propagation of microeconomic shocks in general equilibrium. We discuss the determinants of aggregate measures of real economic activity, like real GDP, real domestic absorption, and aggregate productivity in both efficient and inefficient environments. We also discuss how shocks from one set of producers are transmitted to other producers through prices and quantities. The framework we provide is amenable to generalization and can be used to study any collection of producers ranging from one isolated producer to an industry consisting of heterogeneous producers to an entire economy. We conclude with a brief survey of some of the applied questions that can be addressed using the analytical tools presented in this review and avenues for future work.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-082322-012833/Aggregation_and_Propagation_in_Production_Networks.mp3" length="17085507" type="audio/mpeg"/>
+  <guid>annurev-economics-082322-012833</guid>
+  <pubDate>Sun, 01 Jun 2025 05:22:26 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>How to Run Surveys: A Guide to Creating Your Own Identifying Variation and Revealing the Invisible (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-091622-010157">"How to Run Surveys: A Guide to Creating Your Own Identifying Variation and Revealing the Invisible"</a> (2023) by Stefanie Stantcheva (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Surveys are an essential approach for eliciting otherwise invisible factors such as perceptions, knowledge and beliefs, attitudes, and reasoning. These factors are critical determinants of social, economic, and political outcomes. Surveys are not merely a research tool. They are also not only a way of collecting data. Instead, they involve creating the process that will generate the data. This allows the researcher to create their own identifying and controlled variation. Thanks to the rise of mobile technologies and platforms, surveys offer valuable opportunities either to study broadly representative samples or to focus on specific groups. This article offers guidance on the complete survey process, from the design of the questions and experiments to the recruitment of respondents and the collection of data to the analysis of survey responses. It covers issues related to the sampling process, selection and attrition, attention and carelessness, survey question design and measurement, response biases, and survey experiments.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-091622-010157/Crafting_and_Conducting_Economic_Surveys_and_Experiments.mp3" length="21720095" type="audio/mpeg"/>
+  <guid>annurev-economics-091622-010157</guid>
+  <pubDate>Sun, 01 Jun 2025 05:32:26 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Antitrust Reform: An Economic Perspective (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-082222-070822">"Antitrust Reform: An Economic Perspective"</a> (2023) by Richard J. Gilbert (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  There is widespread dissatisfaction with existing antitrust enforcement. The European Union has enacted comprehensive legislation to address perceived antitrust limitations, and several proposals to amend US antitrust laws have followed its lead. Most of the actual and proposed laws target firms that dominate the digital economy, while others have measures to tighten antitrust enforcement more generally. Market power has increased in the United States and most advanced economies, but it has not been uniformly associated with higher prices or lower productivity. Nonetheless, antitrust reforms can benefit consumers and address concerns about the concentration and exercise of economic power. In the United States, legislation would be desirable to amend rulings that are excessively deferential to antitrust defendants. However, most enacted and proposed reforms include prohibitions or obligations that depart from traditional antitrust principles and create potential risks for consumer welfare.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-082222-070822/Current_Trends_and_Challenges_in_Antitrust_Enforcement.mp3" length="33059304" type="audio/mpeg"/>
+  <guid>annurev-economics-082222-070822</guid>
+  <pubDate>Sun, 01 Jun 2025 05:42:26 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Recent Developments in Partial Identification (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-021124">"Recent Developments in Partial Identification"</a> (2023) by Brendan Kline; Elie Tamer (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Identification strategies concern what can be learned about the value of a parameter based on the data and the model assumptions. The literature on partial identification is motivated by the fact that it is not possible to learn the exact value of the parameter for many empirically relevant cases. A typical result in the literature on partial identification is a statement about characterizing the identified set, which summarizes what can be learned about the parameter of interest given the data and model assumptions. For instance, this may mean that the value of the parameter can be learned to be necessarily within some set of values. First, the review surveys the general frameworks that have been developed for conducting a partial identification analysis. Second, the review surveys some of the more recent results on partial identification.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-051520-021124/Recent_Developments_in_Partial_Identification.mp3" length="5151791" type="audio/mpeg"/>
+  <guid>annurev-economics-051520-021124</guid>
+  <pubDate>Sun, 01 Jun 2025 05:52:26 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Regulating Collusion (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-021936">"Regulating Collusion"</a> (2023) by Sylvain Chassang; Juan Ortner (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  We attempt to provide a systemic view of the process of regulating collusion, including detection and prosecution as well as bargaining between firms and regulators via consent orders, the production of evidence, and containment measures that may be taken if collusion cannot be addressed with more direct means. In addition, we try to do justice to the peculiarities of the legal system: Modeling the courts as they are, rather than as economists think they should be, is essential for economic analysis to improve the way collusion is regulated.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-051520-021936/Regulating_Collusion_Economic_Analysis_and_Legal_Perspectives.mp3" length="17069724" type="audio/mpeg"/>
+  <guid>annurev-economics-051520-021936</guid>
+  <pubDate>Sun, 01 Jun 2025 06:02:26 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 
 
 </channel>
