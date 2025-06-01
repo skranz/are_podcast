@@ -705,6 +705,42 @@ To the best of my knowledge, all underlying articles have been published under a
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+  <title>The Economics of Border Carbon Adjustment: Rationale and Impacts of Compensating for Carbon at the Border (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-082322-034040">"The Economics of Border Carbon Adjustment: Rationale and Impacts of Compensating for Carbon at the Border"</a> (2023) by Lionel Fontagné; Katheline Schubert (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  International trade contributes directly to global greenhouse gas emissions, as the carbon content of high-emission products is priced differently in different countries. This phenomenon is termed carbon leakage. Thus, not putting a price on carbon is theoretically equivalent to an export subsidy, although that would be difficult to challenge in the context of multilateral trade law. Leakage can be alleviated by pricing the carbon embedded in imported products through a border carbon adjustment (BCA), be it a tax, a carbon tariff, or a regulation requiring the purchase of emissions allowances. The design of a BCA is a compromise between environmental effectiveness in preventing leakage, economic effectiveness in preserving competitiveness and ensuring acceptability, technical feasibility of the implementation, and World Trade Organization compatibility. An import-limited BCA is more effective than free emissions allowances in reducing leakage, but it does not preserve the export competitiveness of the country imposing it.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-082322-034040/Border_Carbon_Adjustments_Economic_Analysis.mp3" length="16763505" type="audio/mpeg"/>
+  <guid>annurev-economics-082322-034040</guid>
+  <pubDate>Sun, 01 Jun 2025 05:59:05 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Tertiarization Like China (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-071122-030026">"Tertiarization Like China"</a> (2023) by Xilu Chen; Guangyu Pei; Zheng Song; Fabrizio Zilibotti (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  This article documents a rapid shift toward services (tertiarization) of the Chinese economy since 2005, as evidenced by the significant increase in both employment and value-added shares of the service sector. Notably, our analysis reveals that a variety of measures of productivity growth have been greater in the service sector than in the manufacturing sector. Firm-level measures of dynamism corroborate this ongoing tertiarization trend, which is not limited to services used as inputs to industrial production but extends also to consumer services. These findings are robust across different growth accounting methodologies, including a recently proposed method by Fan et al. (2023) that addresses challenges associated with the measurement of quality improvements in service industries.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-071122-030026/China_s_Rapid_Shift_to_Services_and_Productivity_Growth.mp3" length="13800461" type="audio/mpeg"/>
+  <guid>annurev-economics-071122-030026</guid>
+  <pubDate>Sun, 01 Jun 2025 06:09:05 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 
 
 </channel>
