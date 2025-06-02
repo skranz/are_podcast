@@ -739,6 +739,168 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+  <title>Corporate Taxation (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-082322-014747">"Corporate Taxation"</a> (2023) by Clemens Fuest; Florian Neumeier (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  This article reviews economic research on business taxation, with a focus on corporate income taxation. We discuss what this research can contribute to current debates about corporate tax policy and where existing research is incomplete or inconclusive, so that clarification is needed. The issues we discuss include the incidence of the corporate income tax, its effect on investment and economic growth, the problem of international tax avoidance, and the role of corporate taxes in economic crises, including the current debate about taxes on windfall profits.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-082322-014747/A_Review_of_Business_Taxation_Research.mp3" length="44271883" type="audio/mpeg"/>
+  <guid>annurev-economics-082322-014747</guid>
+  <pubDate>Mon, 02 Jun 2025 05:24:55 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Text Algorithms in Economics (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-082222-074352">"Text Algorithms in Economics"</a> (2023) by Elliott Ash; Stephen Hansen (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  This article provides an overview of the methods used for algorithmic text analysis in economics, with a focus on three key contributions. First, we introduce methods for representing documents as high-dimensional count vectors over vocabulary terms, for representing words as vectors, and for representing word sequences as embedding vectors. Second, we define four core empirical tasks that encompass most text-as-data research in economics and enumerate the various approaches that have been taken so far to accomplish these tasks. Finally, we flag limitations in the current literature, with a focus on the challenge of validating algorithmic output.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-082222-074352/Algorithmic_Text_Analysis_in_Economics.mp3" length="26071742" type="audio/mpeg"/>
+  <guid>annurev-economics-082222-074352</guid>
+  <pubDate>Mon, 02 Jun 2025 05:34:55 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>China's Financial System and Economy: A Review (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-072622-095926">"China's Financial System and Economy: A Review"</a> (2023) by Zhiguo He; Wei Wei (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  China's financial system has been integral to its spectacular economic growth over the past 40 years. We review the recent literature on China's financial system and its connections to the Chinese economy based on the categories of Aggregate Financing to the Real Economy (AFRE), a broad measure of the nation's yearly flow of liquidity accounting for unique features of China's financial system. While early work on China's financial system emphasizes the state-owned enterprise reform, the recent literature explores other more market-based financing channels—including shadow banking—that grew rapidly after 2010 and have become important components of AFRE. These new financing channels not only are intertwined with each other, but also, and more importantly, are often ultimately tied back to the dominant banking sector in China. Understanding the mechanisms behind these channels and their intrinsic connections is crucial to alleviate capital allocation distortion and mitigate potential systemic financial risk in China.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-072622-095926/China_s_Evolving_Financial_System_and_the_Real_Economy.mp3" length="28810165" type="audio/mpeg"/>
+  <guid>annurev-economics-072622-095926</guid>
+  <pubDate>Mon, 02 Jun 2025 05:44:55 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Competition and the Industrial Challenge for the Digital Age (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-090622-024222">"Competition and the Industrial Challenge for the Digital Age"</a> (2023) by Jean Tirole (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Tech giants' dominance does not confront us with an unpalatable choice between laissez-faire and populist interventions. This article takes stock of available knowledge, considers desirable adaptations of regulation in the digital age, and draws some conclusions for policy reform.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-090622-024222/Digital_Age_Competition_Challenges_and_Policy.mp3" length="32148590" type="audio/mpeg"/>
+  <guid>annurev-economics-090622-024222</guid>
+  <pubDate>Mon, 02 Jun 2025 05:54:55 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Gender Differences in Negotiation: Can Interventions Reduce the Gap? (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-092022-115353">"Gender Differences in Negotiation: Can Interventions Reduce the Gap?"</a> (2023) by María P. Recalde; Lise Vesterlund (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Gender differences in negotiation are seen as contributing to the persistent gender gaps in labor market outcomes. We review the literature on interventions aiming to mute differences in negotiation and assess their effectiveness in reducing the gender pay gap. We present research on initiatives that aspire to increase how often and how women negotiate, as well as institutional changes that ban negotiations, ban requests for employee salary history, and improve wage transparency. Along with reviewing evidence on the effectiveness of these initiatives, we point to unintended consequences that warrant caution at implementation. The review makes clear that initial efforts to push women to negotiate more like men have shifted to alter instead the conditions of the negotiation. This shift results not only from wanting to consider policies that “fix the institutions” rather than “fixing the women,” but also from evidence that these interventions are more successful in securing pay equity.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-092022-115353/Gender_Negotiation_and_Labor_Market_Interventions.mp3" length="14471414" type="audio/mpeg"/>
+  <guid>annurev-economics-092022-115353</guid>
+  <pubDate>Mon, 02 Jun 2025 06:04:55 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Local Projections for Applied Economics (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-082222-065846">"Local Projections for Applied Economics"</a> (2023) by Òscar Jordà (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  The dynamic causal effect of an intervention on an outcome is of paramount interest to applied macro- and microeconomics research. However, this question has been generally approached differently by the two literatures. In making the transition from traditional time series methods to applied microeconometrics, local projections can serve as a natural bridge. Local projections can translate the familiar language of vector autoregressions and impulse responses into the language of potential outcomes and treatment effects. There are gains to be made by both literatures from greater integration of well-established methods in each. This review shows how to make these connections and points to potential areas of further research.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-082222-065846/Local_Projections_for_Applied_Economics.mp3" length="15203797" type="audio/mpeg"/>
+  <guid>annurev-economics-082222-065846</guid>
+  <pubDate>Mon, 02 Jun 2025 06:14:55 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The Portfolio of Economic Policies Needed to Fight Climate Change (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-015113">"The Portfolio of Economic Policies Needed to Fight Climate Change"</a> (2023) by Olivier Blanchard; Christian Gollier; Jean Tirole (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Climate change poses an existential threat. Theoretical and empirical research suggest that carbon pricing and green R&D support are the right tools, but their implementation can be improved. Other policies, such as standards, bans, and targeted subsidies, also all have a role to play, but they have often been incoherent, and their implementation is delicate.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-051520-015113/Navigating_the_Green_Transition_Economics_and_Policy.mp3" length="20151297" type="audio/mpeg"/>
+  <guid>annurev-economics-051520-015113</guid>
+  <pubDate>Mon, 02 Jun 2025 06:24:55 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Lessons from US–China Trade Relations (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-082222-082019">"Lessons from US–China Trade Relations"</a> (2023) by Lorenzo Caliendo; Fernando Parro (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  We review theoretical and empirical work on the economic effects of the United States and China trade relations during the past 20 years. We first discuss the origins of the China shock and its measurement and present methods used to study its economic effects on different outcomes. We then focus on the recent US–China trade war. We review methods used to evaluate its effects, describe its economic effects, and analyze whether this increase in trade protectionism reverted the effects of the China shock. The main lessons learned in this review are that (a) the aggregate gains from US–China trade created winners and losers; (b) China's trade expansion seems not to be the main cause of the decline in US manufacturing employment during the same period; and (c) the recent trade war generated welfare losses, had small employment effects, and was ineffective in reversing the distributional effects due to the China shock.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-082222-082019/The_China_Shock_and_US_China_Trade_War.mp3" length="22124028" type="audio/mpeg"/>
+  <guid>annurev-economics-082222-082019</guid>
+  <pubDate>Mon, 02 Jun 2025 06:34:55 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The Economics of Tropical Deforestation (2023) </title>
+  <description><![CDATA[NotebookLM deep dive for
+  <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-economics-090622-024705">"The Economics of Tropical Deforestation"</a> (2023) by Clare Balboni; Aaron Berman; Robin Burgess; Benjamin A. Olken (Annual Review of Economics).
+
+  The original article is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>.
+
+  Not checked for correctness. Not endorsed by the journal or the authors. AI makes mistakes.
+
+  Abstract:
+  Two factors have elevated recent academic and policy interest in tropical deforestation: first, the realization that it is a major contributor to climate change; and second, a revolution in satellite-based measurement that has revealed that it is proceeding at a rapid rate. We begin by reviewing the methodological advances that have enabled measurement of forest loss at a fine spatial resolution across the globe. We then develop a simple benchmark model of deforestation based on classic models of natural resource extraction. Extending this approach to incorporate features that characterize deforestation in developing countries—pressure for land use change, significant local and global externalities, weak property rights, and political economy constraints—provides us with a framework for reviewing the fast-growing empirical literature on the economics of deforestation in the tropics. This combination of theory and empirics provides insights not only into the economic drivers and impacts of tropical deforestation but also into policies that may affect its progression. We conclude by identifying areas where more work is needed in this important body of research.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/are_podcast/releases/download/annurev-economics-090622-024705/The_Economics_of_Tropical_Deforestation.mp3" length="23955458" type="audio/mpeg"/>
+  <guid>annurev-economics-090622-024705</guid>
+  <pubDate>Mon, 02 Jun 2025 06:44:55 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 
 
 </channel>
